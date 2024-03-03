@@ -1,0 +1,53 @@
+.container{
+    border: 0px solid rgb(23, 15, 143);
+}
+.row{
+    border: 0px solid #00eeff;
+}
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    border: 0px solid rgb(74, 172, 25);
+}
+body{
+    background-color: gray;
+}
+#header{
+ background: orange;
+ text-align: center;
+ padding: 10px 0 10px 0;
+}
+#menu{
+    background: rgb(219, 235, 238);
+    padding: 3px 0;
+    
+    
+   }
+   #menu ul{
+    list-style: none;
+    margin: 0;
+    
+   }
+   #menu ul li{
+    display: inline-block;
+    
+   }
+   #menu ul li a{
+    text-decoration: none;
+    
+   }
+#content{
+    background: palegreen;
+}
+#sidebar{
+    background: rgb(32, 48, 124);
+    text-decoration: none;
+   
+}
+#sidebar a{
+    
+    text-decoration: none;
+    
+}
+#footer{
+    background: blueviolet;
+  text-align: center;
+}
